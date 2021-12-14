@@ -1,7 +1,6 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/HrVv6Wd/Whats-App-Image-2021-12-13-at-11-20-15-AM.jpg">
 
 </br>
-</br>
 
 ### Hello, welcome to my GitHub profile 👋
 
@@ -27,7 +26,7 @@
 
 ## Hello, Devs!!
 
-I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:, but next year(2022) me and my family ( :man: :woman: :girl: :black_cat: ) planning to move to :canada:. I'm changing my career as a Web Developer and current studing. As a Dev I hope to use all my backgroud and tranform people's life with technology. Also I love cats! 
+I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:, but next year (2022) me and my family ( :man: :woman: :girl: :black_cat: ) planning to move to :canada:. I'm changing my career as a Web Developer and current studing. As a Dev I hope to use all my backgroud and tranform people's life with technology. Also I love cats! 
 
 <p align="center">
  <img width="300px"  src="https://i.kym-cdn.com/entries/icons/original/000/026/638/cat.jpg" target="_blank" alt="cat" >
@@ -35,7 +34,7 @@ I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:, but next year(
 
 </br>
 
-### Tool and Tecnologies
+### Tools and Tecnologies
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
