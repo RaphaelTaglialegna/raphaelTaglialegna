@@ -10,11 +10,11 @@
  <h1 align="left">Raphael Taglialegna</h1>
  
    <a href="https://www.instagram.com/raphaeltaglialegna/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram" style="vertical-align:top;>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram" style="vertical-align:top;">
    </a> 
    
   <a href="https://www.linkedin.com/in/raphaeltaglialegna" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin" style="vertical-align:top;>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin" style="vertical-align:top;">
   </a>  
  
   <a href = "raphael.trcosta@gmail.com">
