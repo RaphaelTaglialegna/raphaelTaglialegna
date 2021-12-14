@@ -55,7 +55,7 @@ I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:, but next year(
 👯 I’m looking to collaborate on a company that care with people and have a good environment to learn and grow together!
 
  
-📫 How to reach me by [Email](raphael.trcosta@gmail.com) and in my [Linkedin](https://www.linkedin.com/in/raphaeltaglialegna) I would love to talk with you! 
+📫 How to reach me by [Email]("mailto:raphael.trcosta@gmail.com? Subject=Hello%20Raphael") and in my [Linkedin](https://www.linkedin.com/in/raphaeltaglialegna), I would love to talk with you! 
 
 </br>
 </br>
