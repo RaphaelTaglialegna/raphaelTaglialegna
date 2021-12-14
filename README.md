@@ -1,7 +1,5 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/HrVv6Wd/Whats-App-Image-2021-12-13-at-11-20-15-AM.jpg">
-
 </br>
-
 ### Hello, welcome to my GitHub profile 👋
 
 <div dsplay="inline-block"> 
