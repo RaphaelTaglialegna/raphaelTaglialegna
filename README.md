@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin" style="vertical-align:top;">
   </a>  
  
-  <a href = "mailto:raphael.trcosta@gmail.com? Subject=Hello%20Raphael">
+  <a href = "mailto:raphael.trcosta@gmail.com?subject=Hello%20Raphael">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail" style="vertical-align:top;">
   </a>
 </div>
@@ -55,7 +55,7 @@ I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:, but next year(
 👯 I’m looking to collaborate on a company that care with people and have a good environment to learn and grow together!
 
  
-📫 How to reach me by [Email]("mailto:raphael.trcosta@gmail.com? Subject=Hello%20Raphael") and in my [Linkedin](https://www.linkedin.com/in/raphaeltaglialegna), I would love to talk with you! 
+📫 How to reach me by [Email](mailto:raphael.trcosta@gmail.com?subject=[GitHub]Hello%20Raphael") or in my [Linkedin](https://www.linkedin.com/in/raphaeltaglialegna), I would love to recive a message from you! 
 
 </br>
 </br>
