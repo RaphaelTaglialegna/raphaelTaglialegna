@@ -3,12 +3,10 @@
 ### Hello, welcome to my GitHub profile 👋
 
 <div dsplay="inline-block"> 
- 
- <a href="https://raphaeltaglialengaportfolio-raphaeltaglialegna.vercel.app/" target="_blank">
-   <h1 align="left">Raphael Taglialegna</h1>
- </a> 
- 
- 
+ <div dsplay="inline-block" align="left">
+   <h1 >Raphael Taglialegna</h1>
+   <a href="https://raphaeltaglialengaportfolio-raphaeltaglialegna.vercel.app/" target="_blank">Link My Portfolio!</a> 
+ </div>
    <a href="https://www.instagram.com/raphaeltaglialegna/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram" style="vertical-align:top;">
    </a> 
