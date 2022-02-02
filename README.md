@@ -40,6 +40,9 @@ I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:, but next year 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title = "Docker"/></code>
+<code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" title = "MYSQL"/></code>
+
 
 </br>
 </br>
@@ -64,7 +67,6 @@ I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:, but next year 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title = "NODEJS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title = "NODEJS"/></code>
-
 </br>
 </br>
 
