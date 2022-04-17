@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://ibb.co/4FsCjMr">
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/kG3zh0C/raphalogo-Lg.jpg">
 
 ### Hello, welcome to my GitHub profile 👋
 
