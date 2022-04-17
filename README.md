@@ -25,7 +25,8 @@
 
 ## Hello, Devs!!
 
-I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:, but next year (2022) me and my family ( :man: :woman: :girl: :black_cat: ) planning to move to :canada:. I'm changing my career as a Web Developer and current studing. As a Dev I hope to use all my backgroud and tranform people's life with technology. Also I love cats! 
+I'm 34 years old, right now I'm living in Indaiatuba/SP :brazil:. 
+I'm changing my career as a Web Developer and current studing. As a Dev I hope to use all my backgroud and tranform people's life with technology. Also I love cats! 
 
 <p align="center">
  <img width="300px"  src="https://i.kym-cdn.com/entries/icons/original/000/026/638/cat.jpg" target="_blank" alt="cat" >
